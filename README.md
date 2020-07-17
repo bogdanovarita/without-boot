@@ -17,5 +17,10 @@ Simple mock for Spring 5 project without Spring Boot
 1. Deploy artifact into context `/without_boot`
 2. Open http://localhost:8080/without_boot/hello
 
+#### To build project this articles were used:
+
+1. https://www.javachinna.com/2020/02/01/creating-spring-rest-api-without-using-spring-boot/
+2. https://stackoverflow.com/a/50053599/3219857
+
 
 
