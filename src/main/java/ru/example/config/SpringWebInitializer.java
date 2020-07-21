@@ -9,6 +9,7 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 @Configuration
 @ComponentScan("ru.example")
 public class SpringWebInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
+
     @Override
     protected Class[] getServletConfigClasses() {
         return new Class[0];
