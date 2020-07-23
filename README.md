@@ -1,5 +1,5 @@
 # without-boot
-Simple mock for Spring 5 project without Spring Boot
+Simple mock for Spring 5 project without Spring Boot with Spring OAuth2 and Feign
 
 ###### To Build project use:
 
